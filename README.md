@@ -3,7 +3,7 @@ This project implements an AI-based image processing vision system to intelligen
 
 ## Images
 
-### Image 1: Tarkjory
+### Image 1: Trajectory
 ![Image 1](https://github.com/PghGolafshan/intelligent-robot-arm-guidance/blob/main/3D-Detection.png?raw=true)
 
 This image shows how the 3D position of the object is detected without using a second camera or additional sensor.
