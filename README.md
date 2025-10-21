@@ -3,12 +3,10 @@ My bachelor's project implements an AI-based image processing vision system to i
 
 ## Images
 
-### Image 1: Trajectory
 ![Image 1](https://github.com/PghGolafshan/intelligent-robot-arm-guidance/blob/main/3D-Detection.png?raw=true)
-
+### Image 1: Trajectory
 This image shows how the 3D position of the object is detected without using a second camera or additional sensor.
 
-### Image 2: RoArm-M1 Robot
 ![Image 2](https://github.com/PghGolafshan/intelligent-robot-arm-guidance/blob/main/RoArm-M1.png?raw=true)
-
+### Image 2: RoArm-M1 Robot
 This is the RoArm-M1 robotic arm, which has 5 degrees of freedom and is equipped with 5 servo motors. It can establish a serial connection via ESP32.
